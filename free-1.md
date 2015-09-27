@@ -10,8 +10,7 @@ _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help 
 them?_
 
-Trying to understand someone else's code&mdash;especially at a large scale&mdash;
-can be an intimidating, difficult, and overwhelming task,
+Trying to understand someone else's code&mdash;especially at a large scale&mdash;can be an intimidating, difficult, and overwhelming task,
 even if the person trying to digest the code is an experienced programmer:
 having to read and distinguish keywords in raw source code can be tiring, even if the code is well-commented.
 Documentation can help this process, but words on a page aren't always the best way to express an idea.
